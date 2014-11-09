@@ -1,4 +1,4 @@
-----------------LAB1------------
+
 Example Inputs:
 
 python game.py
